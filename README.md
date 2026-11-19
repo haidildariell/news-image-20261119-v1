@@ -1,3 +1,22 @@
+# news-image-20261119-v1
+
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/haidildariell/news-image-20261119-v1/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/haidildariell/news-image-20261119-v1/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+A 1024x1024 newspaper-style front page summing up Thursday 19 November 2026 in one image — 30 verified world-news stories, from GTA VI's global rollout to the first Trump–Xi–Putin trilateral.
+
+## Run it
+
+```sh
+python3 build_image.py          # regenerates entry.png
+MAKEFUN_OUTPUT_DIR=out python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dc1kew1b&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
+
 # The World in One Image — Thursday 19 November 2026
 
 A 1024×1024 newspaper-style front page summing up Thursday 19 November
